@@ -1,6 +1,6 @@
 {
 	"name" : "Greek translation",
-	"description" : "Greek translation of Heroes of Might and Magic III: Complete Edition",
+	"description" : "Demotic Greek translation of Heroes of Might and Magic III: Complete Edition",
 	"version" : "1.0.2",
 	"author" : "",
 	"contact" : "",
@@ -18,11 +18,11 @@
 	},
 	"german" : {
 		"name" : "Griechische Übersetzung",
-		"description" : "Griechische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Demotische griechische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
 	},
 	"greek" : {
 		"name" : "Ελληνική μετάφραση",
-		"description" : "Ελληνική μετάφραση του Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Δημοτική ελληνική μετάφραση του Heroes of Might and Magic III: Πλήρης Έκδοση"	
 	},
 	"translations" : [
 		"config/vcmi-greek/game.json",
